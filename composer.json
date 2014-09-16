@@ -1,6 +1,6 @@
 {
-	"name": "Linkdup/silverstripe-seofriendlydataobject",
-	"description": "SilverStripe seo friendly data object",
+	"name": "linkdup/silverstripe-seofriendlydataobject",
+	"description": "SilverStripe SEO friendly data object",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "dataobject", "seo"],
 	"license": "MIT",
