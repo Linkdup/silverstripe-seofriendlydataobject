@@ -1,0 +1,19 @@
+{
+	"name": "Linkdup/silverstripe-seofriendlydataobject",
+	"description": "SilverStripe seo friendly data object",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "dataobject", "seo"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Mattias Lindgren",
+			"email": "web@enia.com.au"
+		}
+	],
+	"require": {
+		"silverstripe/framework": "3.*"
+	},
+	"extra": {
+		"installer-name": "seofriendlydataobject"
+	}
+}
